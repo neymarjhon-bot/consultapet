@@ -1,0 +1,2 @@
+-- Ver historial de migraciones aplicadas en Supabase (two_roles_admin_vet_and_audit, vet_only_clinical_writes).
+-- Perfiles: owner (dueño) y admin (administrador veterinario). 'vet' se trata como admin.
